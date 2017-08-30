@@ -1,0 +1,15 @@
+/home/ucuptimposu/tmp/latihan/src/main/java/com/timposu/latihan/LatihanApplication.java
+/home/ucuptimposu/tmp/latihan/src/main/java/com/timposu/latihan/config/WebSecurityConfig.java
+/home/ucuptimposu/tmp/latihan/src/main/java/com/timposu/latihan/controller/HaloController.java
+/home/ucuptimposu/tmp/latihan/src/main/java/com/timposu/latihan/config/ThymeleafLayoutInterceptor.java
+/home/ucuptimposu/tmp/latihan/src/main/java/com/timposu/latihan/model/Phone.java
+/home/ucuptimposu/tmp/latihan/src/main/java/com/timposu/latihan/model/Person.java
+/home/ucuptimposu/tmp/latihan/src/main/java/com/timposu/latihan/controller/PersonControllerHtml.java
+/home/ucuptimposu/tmp/latihan/src/main/java/com/timposu/latihan/dao/EmailDao.java
+/home/ucuptimposu/tmp/latihan/src/main/java/com/timposu/latihan/dao/PhoneDao.java
+/home/ucuptimposu/tmp/latihan/src/main/java/com/timposu/latihan/dao/PersonDao.java
+/home/ucuptimposu/tmp/latihan/src/main/java/com/timposu/latihan/model/Email.java
+/home/ucuptimposu/tmp/latihan/src/main/java/com/timposu/latihan/controller/PhoneController.java
+/home/ucuptimposu/tmp/latihan/src/main/java/com/timposu/latihan/config/CsrfHeaderFilter.java
+/home/ucuptimposu/tmp/latihan/src/main/java/com/timposu/latihan/controller/PersonController.java
+/home/ucuptimposu/tmp/latihan/src/main/java/com/timposu/latihan/config/WebConfiguration.java
