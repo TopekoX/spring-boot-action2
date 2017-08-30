@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+    <head>
+        <title>Aplikasi Spring</title>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    </head>
+    <body>
+        <form name="f" th:action="@{/logout}" method="post">
+            <button type="submit" class="btn">Log out</button>
+        </form>
+        <div><h1>Aplikasi Spring</h1></div>
+        <ul>
+           <li th:text="'Nama : ' + ${nama}" >Ucup</li>
+           <li th:text="'Tanggal : ' + ${date} " >2017-01-01</li>
+        </ul>
+    </body>
+</html>
